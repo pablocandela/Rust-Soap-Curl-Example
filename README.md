@@ -1,6 +1,6 @@
 # Rust-Soap-Curl-Example
 
-Web Service publico alojado en https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+Web Service público alojado en: https://www.dataaccess.com/webservicesserver/NumberConversion.wso
 
 Petición curl realizada:
 
